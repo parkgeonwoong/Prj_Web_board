@@ -37,7 +37,7 @@ public class DBConn {
 			final String DRIVER_CLASS_NAME = "com.mysql.jdbc.Driver";
 			final String URL = "jdbc:mysql://localhost:3306/TEST?serverTimezone=UTC";
 			final String USER_NAME = "root";
-			final String PASSWORD = "rjsdnd0614";
+			final String PASSWORD = "";
 
 			try {
 				Class.forName(DRIVER_CLASS_NAME);
