@@ -11,24 +11,26 @@
 - JSP
 - University Project
 - Tomcat & MySQL
+<br />
 
 ## ✅ Purpose
 1. 웹 클라이언트/서버 개념을 이해한다.
 2. 웹 클라이언트 프로그램을 작성할 수 있다.
 3. 요청을 처리하는 웹 응용 프로그램을 작성할 수 있다.
 4. 데이터를 처리하는 웹 응용프로그램을 작성할 수 있다. (데이터베이스 연결)
-
+<br />
 
 ## ✅ Environment
 - Serve : Apache Tomcat 9.0 Tomcat9
 - 사용 언어 : Java, JSTL
 - 실행 환경: Eclipse IDE for Enterprise Java and Web Developers        
+<br />
 
 ## ✅ Installer
 Download Eclipse Installer from http://www.eclipse.org/downloads
 
 Eclipse is hosted on many mirrors around the world. Please select the one closest to you and start to download the Installer
-
+<br />
 
 ### 🔸 Project Analysis
 ```markdown
@@ -62,10 +64,11 @@ Eclipse is hosted on many mirrors around the world. Please select the one closes
    - 이미지 업로딩
    - 이미지 파일로 화면 출력
 ```
+<br />
 
 ### 🔸BackLog
-<img src = "https://user-images.githubusercontent.com/65653053/124763923-6b549000-df6f-11eb-8137-c9a5e7235172.png" width="80%" />
-
+<img src = "https://user-images.githubusercontent.com/65653053/124763923-6b549000-df6f-11eb-8137-c9a5e7235172.png" width="70%" />
+<br />
 
 ### 🔸 Page
-<img src = "https://user-images.githubusercontent.com/65653053/124764392-dbfbac80-df6f-11eb-801c-006c1cd0e037.png" width="60%" />
+<img src = "https://user-images.githubusercontent.com/65653053/124764392-dbfbac80-df6f-11eb-801c-006c1cd0e037.png" width="70%" />
